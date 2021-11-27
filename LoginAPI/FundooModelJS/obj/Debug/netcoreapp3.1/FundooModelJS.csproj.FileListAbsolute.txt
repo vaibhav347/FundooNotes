@@ -1,0 +1,14 @@
+C:\CBDay1\FundooModelJS\bin\Debug\netcoreapp3.1\FundooModelJS.exe
+C:\CBDay1\FundooModelJS\bin\Debug\netcoreapp3.1\FundooModelJS.deps.json
+C:\CBDay1\FundooModelJS\bin\Debug\netcoreapp3.1\FundooModelJS.runtimeconfig.json
+C:\CBDay1\FundooModelJS\bin\Debug\netcoreapp3.1\FundooModelJS.runtimeconfig.dev.json
+C:\CBDay1\FundooModelJS\bin\Debug\netcoreapp3.1\FundooModelJS.dll
+C:\CBDay1\FundooModelJS\bin\Debug\netcoreapp3.1\FundooModelJS.pdb
+C:\CBDay1\FundooModelJS\obj\Debug\netcoreapp3.1\FundooModelJS.csproj.AssemblyReference.cache
+C:\CBDay1\FundooModelJS\obj\Debug\netcoreapp3.1\FundooModelJS.GeneratedMSBuildEditorConfig.editorconfig
+C:\CBDay1\FundooModelJS\obj\Debug\netcoreapp3.1\FundooModelJS.AssemblyInfoInputs.cache
+C:\CBDay1\FundooModelJS\obj\Debug\netcoreapp3.1\FundooModelJS.AssemblyInfo.cs
+C:\CBDay1\FundooModelJS\obj\Debug\netcoreapp3.1\FundooModelJS.csproj.CoreCompileInputs.cache
+C:\CBDay1\FundooModelJS\obj\Debug\netcoreapp3.1\FundooModelJS.dll
+C:\CBDay1\FundooModelJS\obj\Debug\netcoreapp3.1\FundooModelJS.pdb
+C:\CBDay1\FundooModelJS\obj\Debug\netcoreapp3.1\FundooModelJS.genruntimeconfig.cache
