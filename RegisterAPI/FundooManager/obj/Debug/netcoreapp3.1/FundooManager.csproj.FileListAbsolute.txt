@@ -1,0 +1,14 @@
+C:\CBDay1\FundooManager\bin\Debug\netcoreapp3.1\FundooManager.exe
+C:\CBDay1\FundooManager\bin\Debug\netcoreapp3.1\FundooManager.deps.json
+C:\CBDay1\FundooManager\bin\Debug\netcoreapp3.1\FundooManager.runtimeconfig.json
+C:\CBDay1\FundooManager\bin\Debug\netcoreapp3.1\FundooManager.runtimeconfig.dev.json
+C:\CBDay1\FundooManager\bin\Debug\netcoreapp3.1\FundooManager.dll
+C:\CBDay1\FundooManager\bin\Debug\netcoreapp3.1\FundooManager.pdb
+C:\CBDay1\FundooManager\obj\Debug\netcoreapp3.1\FundooManager.csproj.AssemblyReference.cache
+C:\CBDay1\FundooManager\obj\Debug\netcoreapp3.1\FundooManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\CBDay1\FundooManager\obj\Debug\netcoreapp3.1\FundooManager.AssemblyInfoInputs.cache
+C:\CBDay1\FundooManager\obj\Debug\netcoreapp3.1\FundooManager.AssemblyInfo.cs
+C:\CBDay1\FundooManager\obj\Debug\netcoreapp3.1\FundooManager.csproj.CoreCompileInputs.cache
+C:\CBDay1\FundooManager\obj\Debug\netcoreapp3.1\FundooManager.dll
+C:\CBDay1\FundooManager\obj\Debug\netcoreapp3.1\FundooManager.pdb
+C:\CBDay1\FundooManager\obj\Debug\netcoreapp3.1\FundooManager.genruntimeconfig.cache
